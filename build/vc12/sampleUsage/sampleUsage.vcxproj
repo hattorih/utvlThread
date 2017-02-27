@@ -133,7 +133,7 @@
     <ClCompile Include="..\..\..\src\sample\sampleUsage\main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\scvThread\scvThread.vcxproj">
+    <ProjectReference Include="..\utvlThread\utvlThread.vcxproj">
       <Project>{68d36c4f-443c-497b-ac6b-c5e05a4fa8b0}</Project>
     </ProjectReference>
   </ItemGroup>
