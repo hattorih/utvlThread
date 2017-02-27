@@ -1,1 +1,16 @@
-TEST
+#
+# [Windows]
+#
+
+# Microsoft Visual Studio
+*.dep
+*.htm
+*.html
+*.idb
+*.ilk
+*.manifest
+*.ncb
+*.obj
+*.pdb
+*.suo
+*.user
