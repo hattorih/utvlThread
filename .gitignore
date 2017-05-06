@@ -1,16 +1,19 @@
-#
-# [Windows]
-#
+# SVN - Subversion
+*.svn
 
-# Microsoft Visual Studio
+# Windows - Microsoft Visual Studio
 *.dep
 *.htm
 *.html
 *.idb
 *.ilk
+*.lastbuildstate
+*.log
 *.manifest
 *.ncb
 *.obj
 *.pdb
+*.sdf
 *.suo
+*.tlog
 *.user
